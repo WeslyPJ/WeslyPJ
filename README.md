@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate first-year B.Tech Computer Scienc
 * 🚀 **Backend Explorer:** Diving into backend development with Django and Node.js.
 * 💡 **Embedded Systems Interest:** Keen to learn about embedded systems development using Raspberry Pi and ESP32.
 * 🤝 **IEEE & FOSS Contributor:**
-    * Vice Secretary of the Signal Processing Society at IEEE.
+    * Vice Secretary of the Signal Processing Society club at IEEE SB College of Engineering Poonjar.
     * Tech Team member of the IEEE Execom.
     * Tech Team member of the FOSS Club.
 * 📚 **Lifelong Learner:** Always eager to expand my knowledge base and discover new technologies.
